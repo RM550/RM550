@@ -11,6 +11,13 @@ Welcome to my GitHub profile! I'm a passionate learner, currently diving deep in
 - 📫 How to reach me: [reyanbhai2005@gmail.com](mailto:reyanbhai2005@gmail.com)
 - ⚡ Fun fact: I’ve played cricket in the Quaid-e-Azam Trophy for two years!
 
+## 🎯 My Goals
+- 💻 Become an expert in **ethical hacking** and cybersecurity.
+- 🚀 Master **penetration testing**, **bug bounty hunting**, and **exploit development**.
+- 🧠 Continue to improve my programming skills, especially in **Python**, and apply them to real-world hacking challenges.
+- 🌍 Contribute to the **hacking community** in a positive way by promoting ethical hacking practices.
+- 💡 Develop **security solutions** that help protect digital infrastructures and systems.
+
 ## 🛠️ Skills & Tools
 - **Programming Languages:** Python
 - **Technologies:** Web Development, App Development, Cybersecurity
