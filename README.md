@@ -29,7 +29,7 @@ I’m on a mission to develop my skills in programming and ethical hacking, and 
 ---
 
 ## 📱 Connect with Me
-- **Instagram:** [@reyan-mumtaz-python](https://www.instagram.com/reyan-mumtaz-python)
+- **Instagram:** [@reyan-mumtaz-python](https://www.instagram.com/reyan_mumtaz_python)
 - **Email:** [reyanbhai2005@gmail.com](mailto:reyanbhai2005@gmail.com)
 - **WhatsApp:** [+92 325 5611742](https://wa.me/923255611742)
 
