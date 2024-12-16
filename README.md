@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate learner, currently diving deep in
 - **Programming Languages:** Python
 - **Technologies:** Web Development, App Development, Cybersecurity
 - **Tools:** Kali Linux, Metasploit, Burp Suite (for hacking and penetration testing)
-- **AI** i love to use different ai tools for my various purposes
+- **AI:** i love to use different ai tools for my various purposes
 
 ## 📚 Learning Journey
 I’m on a mission to develop my skills in programming and ethical hacking, and I share my learning experiences through my projects. My goal is to contribute to the hacking community in a positive and ethical manner.
