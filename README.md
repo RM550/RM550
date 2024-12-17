@@ -1,4 +1,4 @@
-# Hi there, I'm Reyan Mumtaz 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi there+I+am+Reyan mumtaz;A+Tech+and+AI lover)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I'm a passionate learner, currently diving deep into Python and aspiring to become a skilled hacker in the future.
 
