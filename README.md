@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+Reyan+Mumtaz;A+Python+Front-End+Developer;Bringing+Ideas+to+Life+Through+Code+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=500&color=#5733FFcenter=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+Reyan+Mumtaz;A+Python+and+Front-End+Developer;Bringing+Ideas+to+Life+Through+Code+🚀" />
 </h1>
 ## 🚀 About Me
 - 🔭 I’m currently learning Python and exploring the world of cybersecurity.
