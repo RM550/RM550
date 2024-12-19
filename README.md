@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=500&color=5733FFcenter=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+Reyan+Mumtaz;A+Python+and+Front-End+Developer;Bringing+Ideas+to+Life+Through+Code+🚀" />
 </h1>
 ---
-## 🚀 About Me
+##🚀 About Me
 - 🔭 I’m currently learning Python and exploring the world of cybersecurity.
 - 🌱 I’m passionate about ethical hacking and programming, and working on building my skills in web and app development.
 - 👯 I’m open to collaborating on projects related to hacking, programming, and cybersecurity.
