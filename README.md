@@ -1,7 +1,6 @@
-# HI THERE ! I AM REYAN MUMTAZ
-
-Welcome to my GitHub profile! I'm a passionate learner, currently diving deep into Python and aspiring to become a skilled hacker in the future.
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+Reyan+Mumtaz;A+Python+Front-End+Developer;Bringing+Ideas+to+Life+Through+Code+🚀" />
+</h1>
 ## 🚀 About Me
 - 🔭 I’m currently learning Python and exploring the world of cybersecurity.
 - 🌱 I’m passionate about ethical hacking and programming, and working on building my skills in web and app development.
