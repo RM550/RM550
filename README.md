@@ -1,86 +1,32 @@
-# 👋 Hi, I’m **Reyan Mumtaz**  
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=500&color=5733FFcenter=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+Reyan+Mumtaz;A+Python+and+Front-End+Developer;Bringing+Ideas+to+Life+Through+Code+🚀" />
+</h1>
+I’m currently learning Python and exploring the world of cybersecurity.
+I’m passionate about ethical hacking and programming, and working on building my skills in web and app development.
+I’m open to collaborating on projects related to hacking, programming, and cybersecurity.
+I'm always looking to improve my skills, so if you have any tips or advice, feel free to share!
 
-Welcome to my GitHub profile! I am a recent graduate with a **Bachelor of Science (BSc)** degree, currently focusing on advancing my skills in programming and cybersecurity. My ultimate goal is to become a highly skilled professional in the field of **cybersecurity**, with a particular interest in ethical hacking and penetration testing.  
 
----
+## 🎯 My Goals
+- 💻 Become an expert in **ethical hacking** and cybersecurity.
+- 🚀 Master **penetration testing**, **bug bounty hunting**, and **exploit development**.
+- 🧠 Continue to improve my programming skills, especially in **Python**, and apply them to real-world hacking challenges.
+- 🌍 Contribute to the **hacking community** in a positive way by promoting ethical hacking practices.
+- 💡 Develop **security solutions** that help protect digital infrastructures and systems.
 
-## 🎯 **Career Aspirations**  
-- To become a **Cybersecurity Expert** specializing in **Ethical Hacking** and **Penetration Testing**.  
-- To contribute to the development of secure systems and help organizations protect their digital assets.  
-- To continuously learn and adapt to the ever-evolving landscape of cybersecurity.  
+## 🛠️ Skills & Tools
+- **Programming Languages:** Python
+- **Technologies:** Web Development, App Development, Cybersecurity
+- **Tools:** Kali Linux, Metasploit, Burp Suite (for hacking and penetration testing)
+- **AI:** i love to use different ai tools for my various purposes
 
----
-
-## 🛠️ **Technical Skills & Tools**  
-
-### **Programming Languages**  
-- <img src="https://img.icons8.com/color/48/000000/python.png" width="20" height="20"/> **Python** (Proficient)  
-- <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="20" height="20"/> **C++** (Intermediate)  
-- <img src="https://img.icons8.com/color/48/000000/javascript.png" width="20" height="20"/> **JavaScript** (Beginner)  
-
-### **Tools & Platforms**  
-- <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="20" height="20"/> **VS Code**  
-- <img src="https://img.icons8.com/color/48/000000/docker.png" width="20" height="20"/> **Docker**  
-- **Wireshark**  
-- **Metasploit** (Learning)  
-
----
-
-## 🌱 **What I'm Currently Learning**  
-- Advanced **Python** programming for automation and tool development.  
-- Fundamentals of **Cybersecurity**, including network security, vulnerability assessment, and penetration testing.  
-- Exploring **Docker** for containerization and deployment.  
+## 📚 Learning Journey
+I’m on a mission to develop my skills in programming and ethical hacking, and I share my learning experiences through my projects. My goal is to contribute to the hacking community in a positive and ethical manner.
 
 ---
 
-## 🚀 **Projects**  
-I am currently working on several small projects to enhance my skills and build a portfolio. These include:  
-- **Python-based automation scripts** for repetitive tasks.  
-- **Security tools** for vulnerability scanning and analysis.  
-- **Learning resources** and cheat sheets for cybersecurity concepts.  
+## 📱 Connect with Me
+- **Instagram:** [@reyan.mumtaz.2008](https://www.instagram.com/reyan.mumtaz.2008/)
+- **Email:** [reyanbhai2005@gmail.com](mailto:reyanbhai2005@gmail.com)
 
----
-
-## 📫 **Connect With Me**  
-I am always open to collaboration and networking. Feel free to reach out to me via the following channels:  
-- **GitHub**: [Reyan Mumtaz](https://github.com/reyanmumtaz)  
-- **Email**: [Your Professional Email]  
-- **LinkedIn**: [Your LinkedIn Profile]  
-
----
-
-## 💻 **Development Environment**  
-- **Editor**: <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="20" height="20"/> Visual Studio Code  
-- **Operating System**: Windows/Linux  
-- **Tools**: Docker, Wireshark, Metasploit  
-
----
-
-## 📜 **Quote I Live By**  
-> **"The only way to do great work is to love what you do."** – Steve Jobs  
-
----
-
-### ⚡ **Fun Fact**  
-I enjoy solving complex problems and can spend hours debugging code without losing focus.  
-
----
-
-#### **Let's build a secure digital future together!**  
-
----
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=reyanmumtaz.reyanmumtaz)  
-
----
-
-**Crafted with professionalism and passion by Reyan Mumtaz**  
-
---- 
-
-### **Icons Used**  
-- Icons by [Icons8](https://icons8.com)  
-
---- 
-
-**Stay tuned for more updates and projects!** 🚀
+Feel free to reach out for collaborations, questions, or just to chat about Python and hacking! Let's connect and grow together!
